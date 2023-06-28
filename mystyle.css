@@ -1,4 +1,7 @@
 h1 {color: #008b8b;}
 h2 {color: #778899;}
+h3 {color: #708090;}
+th.important{color:#000080;}
 
-p.sample2 {border: inset 10px #00a381;}
+
+<!--p.sample2 {border: inset 10px #00a381;}-->
