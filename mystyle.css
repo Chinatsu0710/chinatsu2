@@ -3,5 +3,15 @@ h2 {color: #778899;}
 h3 {color: #708090;}
 th.important{color:#000080;}
 
-
 <!--p.sample2 {border: inset 10px #00a381;}-->
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
+}
